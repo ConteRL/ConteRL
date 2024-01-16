@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ConteRL
+- 👀 I’m interested in art, music, programming
+- 🌱 I’m currently learning python, javascript
+- ⚡ Quote: "Actions speak louder than words; let your words teach and your actions speak." - Saint Anthony of Lisbon
